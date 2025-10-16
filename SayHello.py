@@ -8,5 +8,5 @@ class SayHello:
 if __name__ == '__main__':
     app = SayHello()
     app.say()
-    app = SayHello("Someone")
+    app = SayHello("Git hub")
     app.say()
